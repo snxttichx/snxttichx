@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-CF0A2C?style=flat-square&logo=huawei&logoColor=white)
 
-**Networking:** VLAN · NAT · DHCP · ACL · Subnetting · TCP/IP · OSPF  
+**Networking:** VLAN · NAT · DHCP · ACL · Subnetting · TCP/IP
 **Automation:** Python · Netmiko · GNS3 API  
 **Cloud:** Huawei Cloud (KooLab) · AWS · Linux  
 **Other:** Prompt Engineering · RAG Systems
