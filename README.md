@@ -32,7 +32,7 @@
   → Implemented IP addressing, DHCP, firewall, and access control  
   → Deployed internal services and network monitoring  
 
-- 🤖 **SmartChef – AI Web Application (Optional)**  
+- 🤖 **SmartChef – AI Web Application**  
   → Prompt-engineered application with structured outputs  
 
 ---
